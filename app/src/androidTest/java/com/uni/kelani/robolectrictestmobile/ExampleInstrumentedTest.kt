@@ -1,4 +1,4 @@
-package com.uni.kelani.roboelectrictestmobile
+package com.uni.kelani.robolectrictestmobile
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

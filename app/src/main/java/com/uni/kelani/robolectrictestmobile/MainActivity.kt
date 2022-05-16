@@ -1,8 +1,7 @@
-package com.uni.kelani.roboelectrictestmobile
+package com.uni.kelani.robolectrictestmobile
 
 import android.content.Intent
 import android.os.Bundle
-import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
@@ -10,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.uni.kelani.roboelectrictestmobile.databinding.ActivityMainBinding
+import com.uni.kelani.robolectrictestmobile.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

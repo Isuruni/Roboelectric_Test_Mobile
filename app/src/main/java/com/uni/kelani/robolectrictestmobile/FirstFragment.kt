@@ -1,11 +1,10 @@
-package com.uni.kelani.roboelectrictestmobile
+package com.uni.kelani.robolectrictestmobile
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.navigation.fragment.findNavController
 import com.uni.kelani.roboelectrictestmobile.databinding.FragmentFirstBinding
 
 /**

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.uni.kelani.roboelectrictestmobile">
+    package="com.uni.kelani.robolectrictestmobile">
 
     <application
         android:allowBackup="true"
@@ -10,12 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RoboelectricTestMobile">
         <activity
-            android:name=".SecondActivity"
+            android:name="com.uni.kelani.robolectrictestmobile.SecondActivity"
             android:exported="false"
             android:label="@string/title_activity_second"
             android:theme="@style/Theme.RoboelectricTestMobile.NoActionBar" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.uni.kelani.robolectrictestmobile.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.RoboelectricTestMobile.NoActionBar">

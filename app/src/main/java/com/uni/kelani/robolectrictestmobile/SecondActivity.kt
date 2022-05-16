@@ -1,10 +1,10 @@
-package com.uni.kelani.roboelectrictestmobile
+package com.uni.kelani.robolectrictestmobile
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.ui.AppBarConfiguration
 
-import com.uni.kelani.roboelectrictestmobile.databinding.ActivitySecondBinding
+import com.uni.kelani.robolectrictestmobile.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity() {
 
