@@ -3,6 +3,7 @@ package com.uni.kelani.robolectrictestmobile
 import android.widget.TextView
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
+import com.uni.kelani.roboelectrictestmobile.R
 import org.junit.Assert.*
 import org.junit.Test
 import org.junit.runner.RunWith
