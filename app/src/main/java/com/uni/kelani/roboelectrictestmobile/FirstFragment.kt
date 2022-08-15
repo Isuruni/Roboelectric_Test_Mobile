@@ -1,4 +1,4 @@
-package com.uni.kelani.robolectrictestmobile
+package com.uni.kelani.roboelectrictestmobile
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
